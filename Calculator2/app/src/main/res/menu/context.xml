@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/context_del1"
+        android:title="숫자 1 삭제" />
+    <item
+        android:id="@+id/context_del2"
+        android:title="숫자 2 삭제" />
+    <item
+        android:id="@+id/context_all"
+        android:title="전체 숫자 삭제" />
+</menu>

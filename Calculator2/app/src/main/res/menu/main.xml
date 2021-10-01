@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Item" >
+        <menu >
+            <item
+                android:id="@+id/menu_add"
+                android:title="더하기" />
+            <item
+                android:id="@+id/menu_minus"
+                android:title="빼기" />
+            <item
+                android:id="@+id/menu_multi"
+                android:title="곱하기" />
+            <item
+                android:id="@+id/menu_div"
+                android:title="나누기" />
+        </menu>
+    </item>
+</menu>
