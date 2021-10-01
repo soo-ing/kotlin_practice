@@ -1,0 +1,2 @@
+rootProject.name='improved_TiltSensor2'
+include ':app'
